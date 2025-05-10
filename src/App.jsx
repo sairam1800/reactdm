@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      <alert>branch1</alert>
+      <alert>alert</alert>
     </div>
   );
 }

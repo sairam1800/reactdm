@@ -8,9 +8,10 @@ function App() {
 
   return (
     <div className="App">
-      <section>
-        <li>version section</li>
-      </section>
+      <textarea className="logo">
+        <li>version textarea</li>
+        <li>message</li>
+      </textarea>
     </div>
   );
 }

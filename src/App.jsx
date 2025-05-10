@@ -8,10 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      <textarea className="logo">
-        <li>version textarea</li>
-        <li>message</li>
-      </textarea>
+      <alert>clone</alert>
     </div>
   );
 }
